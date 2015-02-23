@@ -1,11 +1,17 @@
 # stcath-calendar
-All comittee meetings stored as an iCal file.
+Some comittee meetings stored as an iCal file.
 
 This file is made available as part of St. Catharines Open Data. The city doesn't have an official Open Data program yet, but citizens are free to work with existing, available public data and turn it into shareable formats. We're doing this:
 
 * To show that the work is simple.
 * To show the value in citizen-led work.
 * To show areas in which short-term value can be found.
+
+#Contents
+* Council meetings
+* Committee of Adjustment
+* Several Ad Hoc committee meetings (mostly budget)
+* Culture Committee
 
 ##Why?
 Looking for event and meeting information in the city is complicated. There's multiple approaches. Exported data doesn't work as expected. There's no unified view on anything. The following activities are currently very difficult.
